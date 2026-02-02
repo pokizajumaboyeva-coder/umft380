@@ -6,3 +6,5 @@ def funkMoselov(a, b, c):
 
 print(funkMoselov(4, 7, 3))  # 11
 print(funkMoselov(3, 1, 5))  # 8
+
+# Branch Moselov tomonidan qo'shimcha tekshiruv
